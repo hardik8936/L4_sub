@@ -1,0 +1,30 @@
+{
+  "name": "my-node-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest",
+    "prepare": "husky install"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.23.1",
+    "husky": "^8.0.1",
+    "lint-staged": "^13.0.3"
+  },
+  "dependencies": {
+    "jest": "^29.2.0",
+    "minimist": "^1.2.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hardik8936/L2_sub.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hardik8936/L2_sub/issues"
+  },
+  "homepage": "https://github.com/hardik8936/L2_sub#readme",
+  "description": ""
+}
